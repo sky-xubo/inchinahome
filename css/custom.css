@@ -1,0 +1,13 @@
+#lang_switch{
+    display: inline-block;
+    float: right;
+    padding: 20px 0px;
+}
+
+#lang_switch a{
+    color: #6A6A6A;
+}
+
+#lang_switch a:hover{
+    color: #F896A9;
+}
